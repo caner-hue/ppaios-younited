@@ -1,12 +1,23 @@
 {
   "name": "PPAIOS — Younited",
-  "description": "Younited brand workspace. Tier: sprint. No Drive folder yet. Caner to brief on first run.",
+  "description": "Younited brand workspace. Tier: sprint (full 17-agent roster — same skill surface as KIND2). No Drive folder yet. Caner to brief on first run.",
   "agents": [
     "director",
     "analytics",
+    "customer-service",
     "email-sms",
+    "site-cro",
     "content-seo",
     "creative",
-    "social-media"
+    "social-media",
+    "paid-ads",
+    "reseller-outreach",
+    "creator-manager",
+    "amazon-ppc",
+    "amazon-catalogue",
+    "finance-reporter",
+    "logistics-inventory",
+    "reviews-social-proof",
+    "retention-curator"
   ]
 }
