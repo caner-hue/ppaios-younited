@@ -1,0 +1,12 @@
+{
+  "name": "PPAIOS — Younited",
+  "description": "Younited brand workspace. Tier: sprint. No Drive folder yet. Caner to brief on first run.",
+  "agents": [
+    "director",
+    "analytics",
+    "email-sms",
+    "content-seo",
+    "creative",
+    "social-media"
+  ]
+}
