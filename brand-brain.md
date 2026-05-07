@@ -21,14 +21,21 @@ TBC — Caner to confirm Shopify URL, Klaviyo account, ad platforms during onboa
 ## 7. Younited Wellness ✅
 
 - **Status:** active ✅ — Sprint 1 (Offer) Week 4 (due 17 May 2026)
-- **Tier:** sprint retainer
+- **Tier:** sprint retainer (paid in CAD)
+- **Registered billing entity:** **Younited Nutrition with Purpose** ✅
+- **Billing address:** 5858 Fourth Line, Hillsburgh, ON, N0B 1Z0, Canada ✅
+- **Billing email:** **renzo@younitedwellness.ca** ✅
+- **Currency:** CAD (paid via Revolut IBAN GB15 REVO 0099 6924 0983 73)
+- **Notion client page:** https://www.notion.so/34123a47bdd981629e5df3742e939b00 ✅ (linked in invoicing skill)
+- **Instalment counter (per `invoice_state.json`):** Younited Wellness = 2 ✅
 - **Sprint timeline:** Sprint 1 Offer → Sprint 4 Ads (handover brief on file)
-- **Scope:** Offer sprint completing; Sprint 4 Ads setup brief authored — audience segments, site performance context from Sprints 1-2, Sprint 4 access requirements
+- **Scope:** Offer sprint completing; Sprint 4 Ads setup brief authored
 - **Stakeholders:**
-  - Founder: **Jillian Mariani** (`jillian@niyama-wellness.ca`) — also runs Niyama (same founder, two brands) ✅
+  - Billing: **Renzo** (renzo@younitedwellness.ca) ✅
+  - Brand strategy: **Jillian Mariani** (jillian@niyama-wellness.ca) — also runs Niyama (same founder, two brands)
   - Mobile: 416 918 5696
-  - Production: April (creative — brand video vertical/horizontal in flight; Niyama site mint-colour tweak request 2026-05)
-- **Tools:** New Younited site in build (per gmail 2026-05-06: "horizontal video will be fantastic for when the new Younited website is ready")
-- **Links:** [`notion://Younited Sprint Retrospective`](https://www.notion.so/34123a47bdd981fd8c70e0a81a872fdd), [`notion://Sprint 4 Ads Handover`](https://www.notion.so/34a23a47bdd9816c9ebcf8875f90f580)
+  - Production: April (creative — brand video vertical/horizontal in flight)
+- **Tools:** New Younited site in build (per gmail 2026-05-06)
+- **Links:** [`notion://Younited Sprint Retrospective`](https://www.notion.so/34123a47bdd981fd8c70e0a81a872fdd), [`notion://Sprint 4 Ads Handover`](https://www.notion.so/34a23a47bdd9816c9ebcf8875f90f580), [`notion://Younited client page`](https://www.notion.so/34123a47bdd981629e5df3742e939b00)
 
 ---
